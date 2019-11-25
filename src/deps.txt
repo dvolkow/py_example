@@ -1,0 +1,10 @@
+# Requrements
+Python 3.7+
+
+sudo pip3 install matplotlib
+sudo pip3 install prettytable
+sudo pip3 install pandas
+sudo pip3 install clickhouse_driver
+sudo pip3 install progressbar2
+sudo pip3 install sklearn
+
